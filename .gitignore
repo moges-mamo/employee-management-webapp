@@ -1,0 +1,13 @@
+target/
+.mvn/wrapper/maven-wrapper.jar
+.classpath
+.project
+.settings/
+.idea/
+.vscode/
+*.log
+.env
+.env.*
+!.env.example
+application-local.properties
+application-local.yml
